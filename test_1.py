@@ -1,2 +1,2 @@
 def shout():
-    print("WHAAAH!")
+    print("WHOOOOOH!")
